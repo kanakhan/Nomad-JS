@@ -5,4 +5,4 @@ function sayHello(){
 sayHello("Samsung")
 sayHello("Apple")
 sayHello("Sony")
-sayHello(1);
+sayHello(150);
