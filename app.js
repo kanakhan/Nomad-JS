@@ -10,4 +10,4 @@ sayHello("Samsung")
 sayHello("Apple")
 sayHello("Sony")
 sayHello(15032);
-
+plus(1,5);
