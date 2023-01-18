@@ -12,4 +12,9 @@ function minus(a,b){
     else return (b-a);
 }
 
+function absolute(a){
+    if (a>0) return a;
+    else return -a;
+}
+
 
